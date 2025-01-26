@@ -12,7 +12,7 @@ Information Technology UG @ SLIIT
 <div align="center">
   
 <!-- GitHub Profile Visit Counter -->
-<img src="https://komarev.com/ghpvc/?username=OmashV&color=blue" alt="profile views" />  
+<img src="https://komarev.com/ghpvc/?username=ChamuHimasha&color=blue" alt="profile views" />  
 </div>
 
 <table align="center">
@@ -66,13 +66,13 @@ Information Technology UG @ SLIIT
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OmashV&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ChamuHimasha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OmashV&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamuHimasha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmashV&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ChamuHimasha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -81,7 +81,7 @@ Information Technology UG @ SLIIT
 
  <p align="center" >
       <img
-          src="https://github-profile-trophy.vercel.app/?username=OmashV"
+          src="https://github-profile-trophy.vercel.app/?username=ChamuHimasha"
           alt="GehanFonseka"
 
 ---
