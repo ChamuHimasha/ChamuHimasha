@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# 👋 Hi, I’m @OmashV  
-Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast 
+# 👋 Hi, I’m Chamu  
+Information Technology UG @ SLIIT 
 
 </div>
 
@@ -23,7 +23,7 @@ Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast
   
 - 🌱 I’m currently learning AI and ML
  
-- 📫 How to reach me - vidurangaomash@gmail.com
+- 📫 How to reach me - chamuhimasha29471@gmail.com
  
 
 
@@ -48,9 +48,9 @@ Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://OmashV.github.io/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="OmashV" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omash-viduranga-76aaa91a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gehan-fonseka-aa61a7288" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/12E6qEyaACP/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Omash Viduranga" height="30" width="40" /></a>
-<a href="https://www.instagram.com/omash.v?igsh=Ynk3a2hzb2RyZWdt&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="OmashV" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chamudi-himasha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gehan-fonseka-aa61a7288" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075739308924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Omash Viduranga" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__cha_muu__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="OmashV" height="30" width="40" /></a>
 </p>
 
 ---
