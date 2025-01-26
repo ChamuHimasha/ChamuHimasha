@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I’m Chamu  
+# 👋 Hi, I’m ChamuHimasha  
 Information Technology UG @ SLIIT 
 
 </div>
@@ -19,9 +19,9 @@ Information Technology UG @ SLIIT
 <tr border="none">
 <td width="50%" align="left">
   
-- 👀 I’m interested in AI  
+- 👀 I’m interested in Software Testing  
   
-- 🌱 I’m currently learning AI and ML
+- 🧑‍🎓 I’m an undergraduate at SLIIT
  
 - 📫 How to reach me - chamuhimasha29471@gmail.com
  
