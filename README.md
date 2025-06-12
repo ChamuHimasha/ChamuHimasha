@@ -19,7 +19,7 @@ Information Technology UG @ SLIIT
 <tr border="none">
 <td width="50%" align="left">
   
-- 👀 I’m interested in Software Testing  
+- 👀 I’m interested in Frontend Development  
   
 - 🧑‍🎓 I’m an undergraduate at SLIIT
  
